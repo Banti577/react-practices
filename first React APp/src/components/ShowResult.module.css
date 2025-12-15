@@ -1,0 +1,33 @@
+.todoElement {
+  background-color: rgba(186, 186, 177, 0.631);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.actions button {
+  margin: 9px;
+  padding: 8px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 63px;
+  color: #fff;
+}
+.DeleteButton {
+  background-color: red;
+}
+.EditButton {
+  background-color: rgb(14, 14, 24);
+}
+
+.resultBoxA {
+  width: 60%;
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid rgb(28, 0, 128);
+  border-radius: 5px;
+}
+
+.todoResultA {
+  background: #f5f5f5;
+}

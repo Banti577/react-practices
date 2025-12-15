@@ -1,0 +1,11 @@
+.ResultBox{
+font-size: 20px;
+box-shadow: inset 0 0 10px #000000;
+padding: 6px;
+}
+.ResultBox td{
+padding: 5px;
+}
+.ResultBox th{
+margin: 5px;
+}
